@@ -1,6 +1,4 @@
-/**
- * Created by RZ on 2015/12/7.
- */
+
 
 $(function($){
     $("#fullpage").fullpage({
